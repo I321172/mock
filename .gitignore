@@ -1,0 +1,6 @@
+bin/
+lib
+/
+.project
+javaw_*.log
+.settings/
